@@ -12,7 +12,7 @@
   supervisor: "Prof. Dr. Example",
   tutor: "Dr. Example",
   text-font: "New Computer Modern",
-  sans-font: "CMU Sans Serif",
+  sans-font: "New Computer Modern Sans",
   incl-declaration-of-originality: true,
   incl-list-of-figures: true,
   incl-list-of-tables: true,
