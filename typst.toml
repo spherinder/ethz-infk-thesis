@@ -1,0 +1,9 @@
+[package]
+name = "ethz-infk-thesis"
+entrypoint = "template.typ"
+description = "Unofficial template for writing a report or thesis in ETH Zurich's Computer Security research lab (COMSEC)"
+categories = ['thesis']
+version = "0.1.0"
+authors = ['spherinder']
+license = "MIT"
+repository = "https://github.com/spherinder/ethz-infk-thesis"
