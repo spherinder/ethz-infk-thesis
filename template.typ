@@ -96,11 +96,11 @@
     pagebreak(weak: true)
     v(HEADING_1_TOP_MARGIN)
     if h.numbering != none [
-      #text("Chapter " + counter(heading).display(), font: "CMU Serif", size: 21pt, weight: 700)
+      #text("Chapter " + counter(heading).display(), font: text-font, size: 21pt, weight: 700)
 
-      #text(h.body, font: "CMU Serif", size: 24pt, weight: 700)
+      #text(h.body, font: text-font, size: 24pt, weight: 700)
     ] else {
-      text(h.body, font: "CMU Serif", size: 24pt, weight: 700)
+      text(h.body, font: text-font, size: 24pt, weight: 700)
     }
     v(30pt)
   } else if h.level == 2 {

@@ -9,7 +9,7 @@
   tutor: "",
   semester: "",
   student-nr: "",
-  sans-font: "CMU Sans Serif",
+  sans-font: "New Computer Modern Sans",
   declaration-of-originality-choice: none,
   ..rest
 ) = {
