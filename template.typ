@@ -104,9 +104,9 @@
     }
     v(30pt)
   } else if h.level == 2 {
-    num_subheading(14pt,14pt,20pt,20pt,h)
+    num_subheading(14pt,14pt,16pt,16pt,h)
   } else {
-    num_subheading(9pt,10pt,20pt,20pt,h)
+    num_subheading(9pt,10pt,14pt,14pt,h)
   }
 
   // Cover
