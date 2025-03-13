@@ -1,3 +1,5 @@
+[[file:https://auchenberg.github.io/volkswagen/volkswargen_ci.svg?v=1]]
+
 This is an unofficial typst template for writing a report or thesis in ETH Zurich's Computer Security research lab (COMSEC). One can adapt it to other thesis projects too.
 
 ** Usage
